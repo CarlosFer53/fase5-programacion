@@ -1,4 +1,4 @@
-# Nombre del Estudiante: Carlos Fernando Rodriguez Salazar
+# Carlos Fernando Rodriguez Salazar
 # Grupo: 986
 # Programa: Ingeniería de Sistemas
 # Código Fuente: Autoría propia
